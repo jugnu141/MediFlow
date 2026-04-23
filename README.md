@@ -1,6 +1,3 @@
-Here's your customized README for **MediFlow** (renamed from MediConnect). It's rewritten in your own words with a different structure while keeping all the technical details.
-
-```markdown
 # 🏥 MediFlow - Intelligent Healthcare Management System
 
 A complete healthcare platform that brings together patients, doctors, caregivers, and hospital administrators in one secure, real-time ecosystem.
